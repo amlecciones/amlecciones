@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Aaron. A licensed and registered architect in the Philippines and an Assistant Professor at the College of Architecture, University of the Philippines, Diliman. I am currently a PhD Student at the University of Washington, Seattle under a Fulbright Scholarship studying Urban Design and Planning. My current research looks into scaling blue-green infrastructure in the built environment under a Wetland City framework. I'm currently learning about data science, urban informatics, and nature-based solutions. Visit my [github webpage](https://amlecciones.github.io) for more information.
 <!--
 **amlecciones/amlecciones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
